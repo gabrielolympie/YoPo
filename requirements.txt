@@ -1,3 +1,7 @@
+# python3.11
 mirascope[litellm,openai]
 treelib
 networkx
+jupyter
+numpy
+matplotlib
